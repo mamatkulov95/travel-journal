@@ -1,10 +1,11 @@
-import './App.css';
-import Nav from './navbar/Nav';
+import "./App.css";
+import Nav from "./navbar/Nav";
 
 function App() {
   return (
     <div className="App">
-     <Nav />
+      <Nav />
+
     </div>
   );
 }
